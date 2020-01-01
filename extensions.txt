@@ -19,3 +19,4 @@ PKief.material-icon-theme
 steoates.autoimport
 toba.vsfire
 Zignd.html-css-class-completion
+gcrev93.StackSearchExt
