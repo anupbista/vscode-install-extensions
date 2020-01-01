@@ -3,7 +3,6 @@ ritwickdey.LiveServer
 naumovs.color-highlight
 CoenraadS.bracket-pair-colorizer
 remimarsal.prettier-now
-peterjausovec.vscode-docker
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 danwahlin.angular2-snippets
@@ -14,7 +13,7 @@ leizongmin.node-module-intellisense
 Mikael.Angular-BeastCode
 ms-vscode.sublime-keybindings
 NuclleaR.vscode-extension-auto-import
-PeterJausovec.vscode-docker
+ms-azuretools.vscode-docker
 PKief.material-icon-theme
 steoates.autoimport
 toba.vsfire
